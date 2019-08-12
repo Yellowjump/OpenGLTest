@@ -54,6 +54,8 @@
 		C7B11BA222E7F4FF002CEBFF /* shader.fs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.fs; sourceTree = "<group>"; };
 		C7B11BA322E7FC8B002CEBFF /* stb_image.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = stb_image.h; sourceTree = "<group>"; };
 		C7B11BA422E7FCB0002CEBFF /* stbimage.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stbimage.cpp; sourceTree = "<group>"; };
+		C7B63437230168EC0070B63E /* framebuffer.vs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = framebuffer.vs; sourceTree = "<group>"; };
+		C7B634382301691D0070B63E /* framebuffer.fs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = framebuffer.fs; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,8 @@
 				C75FDBB022F1761800BC7D3B /* blend.fs */,
 				C75FDBB122F17BCC00BC7D3B /* blend.vs */,
 				C76277E722FA7ADB0091FB0D /* Shader.h */,
+				C7B63437230168EC0070B63E /* framebuffer.vs */,
+				C7B634382301691D0070B63E /* framebuffer.fs */,
 			);
 			path = openGLTest;
 			sourceTree = "<group>";
