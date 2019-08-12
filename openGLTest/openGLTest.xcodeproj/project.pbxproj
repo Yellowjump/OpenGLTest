@@ -56,6 +56,8 @@
 		C7B11BA422E7FCB0002CEBFF /* stbimage.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stbimage.cpp; sourceTree = "<group>"; };
 		C7B63437230168EC0070B63E /* framebuffer.vs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = framebuffer.vs; sourceTree = "<group>"; };
 		C7B634382301691D0070B63E /* framebuffer.fs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = framebuffer.fs; sourceTree = "<group>"; };
+		C7B63439230197760070B63E /* skybox.vs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = skybox.vs; sourceTree = "<group>"; };
+		C7B6343A2301978F0070B63E /* skybox.fs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = skybox.fs; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,8 @@
 				C76277E722FA7ADB0091FB0D /* Shader.h */,
 				C7B63437230168EC0070B63E /* framebuffer.vs */,
 				C7B634382301691D0070B63E /* framebuffer.fs */,
+				C7B63439230197760070B63E /* skybox.vs */,
+				C7B6343A2301978F0070B63E /* skybox.fs */,
 			);
 			path = openGLTest;
 			sourceTree = "<group>";
