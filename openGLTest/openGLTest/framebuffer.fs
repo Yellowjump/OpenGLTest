@@ -34,5 +34,5 @@ void main()
     for(int i = 0; i < 9; i++)
         col += sampleTex[i] * kernel[i];
     */
-    FragColor = texture(screenTexture,TexCoords);
+    FragColor = texture(screenTexture,vec2(0,1)-TexCoords);
 }
